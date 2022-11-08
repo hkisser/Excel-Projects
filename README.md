@@ -1,5 +1,3 @@
-# Excel-Projects
-One stop shop for all my excel projects
 ## Task
 Create a tracker for books to read the year round
 
