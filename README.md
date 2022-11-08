@@ -1,6 +1,3 @@
-# Excel-Projects
-One stop shop for all my excel projects
-
 ## Task
 Build an effective  visual to categorize the world's top 20 oil producers
 
