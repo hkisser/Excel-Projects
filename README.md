@@ -2,15 +2,15 @@
 
 This research arose from my desire to learn which countries were responsible for generating the majority of the world's oil. With the continuous conflict between Ukraine and Russia, as well as massive price increases in oil and gas in my home nation,Ghana, I wanted to learn how significant Russia's contribution to the oil industry was.
 
+## The Data
+
+I obtained the data from the Information is Beautiful website, and the visual concept was inspired by one I saw on the site, so I wanted to duplicate it in Excel.
+
 ## Tech Stack
 
 - Excel
 - Googling
 - Critical Thinking
-
-## The Data
-
-I obtained the data from the Information is Beautiful website, and the visual concept was inspired by one I saw on the site, so I wanted to duplicate it in Excel.
 
 ## Analysis
 
